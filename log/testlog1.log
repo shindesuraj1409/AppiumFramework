@@ -1,0 +1,1139 @@
+2020-07-24 11:53:55,292 [main] DEBUG core.MyLogger - This is debug text
+2020-07-24 11:57:16,511 [main] DEBUG core.MyLogger - This is debug text
+2020-07-24 18:15:00,425 [main] INFO core.MyLogger - 65ms
+2020-07-24 18:15:00,632 [main] INFO core.MyLogger - 65ms
+2020-07-24 18:15:01,899 [main] INFO core.MyLogger - 3.26
+2020-07-24 18:17:10,670 [main] INFO core.MyLogger - 55ms
+2020-07-24 18:17:16,227 [main] INFO core.MyLogger - 55ms
+2020-07-24 18:17:16,423 [main] INFO core.MyLogger - 55ms
+2020-07-24 18:25:33,385 [main] INFO core.MyLogger - 72ms
+2020-07-24 18:25:38,882 [main] INFO core.MyLogger - 72ms
+2020-07-24 18:25:39,082 [main] INFO core.MyLogger - 
+2020-07-24 18:27:44,737 [main] INFO core.MyLogger - 67ms
+2020-07-24 18:27:44,893 [main] INFO core.MyLogger - 67ms
+2020-07-24 18:28:00,550 [main] INFO core.MyLogger - 
+2020-07-24 18:28:57,132 [main] INFO core.MyLogger - 64ms
+2020-07-24 18:28:57,338 [main] INFO core.MyLogger - 64ms
+2020-07-24 18:29:12,999 [main] INFO core.MyLogger - 
+2020-07-24 18:33:34,872 [main] INFO core.MyLogger - 62ms
+2020-07-24 18:33:36,599 [main] INFO core.MyLogger - 62ms
+2020-07-24 18:33:52,191 [main] INFO core.MyLogger - 
+2020-07-24 18:35:24,891 [main] INFO core.MyLogger - 64ms
+2020-07-24 18:35:25,126 [main] INFO core.MyLogger - 64ms
+2020-07-24 18:35:26,410 [main] INFO core.MyLogger - 
+2020-07-24 18:43:44,085 [main] DEBUG core.MyLogger - Formatting ADB Command:adb -s a9330314 shell am start -c api.android.intent.category.Launcher -a api.android.intent.action.Main -n org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainViewActivity
+2020-07-24 18:43:44,092 [main] DEBUG core.MyLogger - Formatted ADB Command:E:\sdk-tools-windows/platform-tools/adb -s a9330314 shell am start -c api.android.intent.category.Launcher -a api.android.intent.action.Main -n org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainViewActivity
+2020-07-24 18:43:44,311 [main] DEBUG core.MyLogger - Output of ADB Command:Starting: Intent { act=api.android.intent.action.Main cat=[api.android.intent.category.Launcher] cmp=org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainViewActivity }
+
+2020-07-24 18:44:00,396 [main] INFO core.MyLogger - 75ms
+2020-07-24 18:44:14,483 [main] INFO core.MyLogger - 75ms
+2020-07-24 18:44:14,690 [main] INFO core.MyLogger - 
+2020-07-24 18:51:31,243 [main] DEBUG core.MyLogger - Formatting ADB Command:adb -s a9330314 shell am start -c api.android.intent.category.Launcher -a api.android.intent.action.Main -n org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainViewActivity
+2020-07-24 18:51:31,250 [main] DEBUG core.MyLogger - Formatted ADB Command:E:\sdk-tools-windows/platform-tools/adb -s a9330314 shell am start -c api.android.intent.category.Launcher -a api.android.intent.action.Main -n org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainViewActivity
+2020-07-24 18:51:31,465 [main] DEBUG core.MyLogger - Output of ADB Command:Starting: Intent { act=api.android.intent.action.Main cat=[api.android.intent.category.Launcher] cmp=org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainViewActivity }
+
+2020-07-24 18:52:05,677 [main] INFO core.MyLogger - 67ms
+2020-07-24 18:52:05,876 [main] INFO core.MyLogger - 67ms
+2020-07-24 18:52:07,035 [main] INFO core.MyLogger - 
+2020-07-24 18:54:41,342 [main] INFO core.MyLogger - 70ms
+2020-07-24 18:54:41,568 [main] INFO core.MyLogger - 70ms
+2020-07-24 18:54:42,825 [main] INFO core.MyLogger - 
+2020-07-24 19:42:27,857 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 19:43:01,087 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 19:43:16,801 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 19:54:48,371 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 19:54:48,811 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-24 19:54:49,142 [main] INFO core.MyLogger - Creating driver caps for devices:a9330314
+2020-07-24 19:58:50,215 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 19:58:50,568 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-24 19:58:50,740 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-24 20:01:01,574 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 20:01:01,954 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-24 20:01:02,130 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-24 20:02:01,893 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 20:02:02,353 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-24 20:02:02,564 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-24 20:03:48,751 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 20:03:49,175 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-24 20:03:49,342 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-24 20:04:20,106 [main] INFO core.MyLogger - 73ms
+2020-07-24 20:04:20,266 [main] INFO core.MyLogger - 73ms
+2020-07-24 20:04:20,512 [main] INFO core.MyLogger - 
+2020-07-24 20:06:14,254 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 20:06:14,627 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-24 20:06:14,800 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-24 20:07:20,314 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 20:07:20,666 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-24 20:07:20,841 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-24 20:08:12,317 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-24 20:08:12,692 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-24 20:08:12,874 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 12:35:01,835 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 12:35:02,429 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 12:35:02,616 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 12:35:25,826 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-26 12:35:30,594 [main] INFO core.MyLogger - Getting Download Speed
+2020-07-26 12:35:56,858 [main] INFO core.MyLogger - Ping:86ms
+2020-07-26 19:19:10,977 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 19:19:11,684 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 19:19:11,924 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 19:21:24,753 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 19:21:25,123 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 19:21:25,355 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 19:22:45,876 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 19:22:46,226 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 19:22:46,416 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 19:27:51,702 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 19:27:52,207 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 19:27:52,377 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 19:29:40,596 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 19:29:40,968 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 19:29:41,200 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 19:40:31,186 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 19:40:31,653 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 19:40:31,825 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 19:46:33,182 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 19:46:33,587 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 19:46:33,760 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 19:59:02,526 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 19:59:03,008 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 19:59:03,159 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 20:01:55,687 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 20:01:56,050 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 20:01:56,203 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 20:27:05,226 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 20:27:05,610 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 20:27:05,835 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 20:28:23,656 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 20:28:24,128 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 20:28:24,326 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 20:29:26,019 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 20:29:26,387 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 20:29:26,622 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 20:33:04,647 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 20:33:05,004 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 20:33:05,160 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 20:33:59,921 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 20:34:00,306 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 20:34:00,469 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 20:46:19,005 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 20:46:19,629 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 20:46:19,791 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 20:46:33,846 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:46:33,854 [main] INFO core.MyLogger - Test ID:test1
+2020-07-26 20:46:33,855 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements
+2020-07-26 20:46:33,855 [main] INFO core.MyLogger - Test Suite:null
+2020-07-26 20:46:34,097 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:46:34,097 [main] INFO core.MyLogger - Test ID:test1
+2020-07-26 20:46:34,098 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements
+2020-07-26 20:46:34,098 [main] INFO core.MyLogger - Test Suite:null
+2020-07-26 20:46:34,386 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:46:34,387 [main] INFO core.MyLogger - Test ID:test1
+2020-07-26 20:46:34,388 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements
+2020-07-26 20:46:34,390 [main] INFO core.MyLogger - Test Suite:null
+2020-07-26 20:46:34,619 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:46:34,625 [main] INFO core.MyLogger - Test ID:test2
+2020-07-26 20:46:34,626 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 2
+2020-07-26 20:46:34,627 [main] INFO core.MyLogger - Test Suite:null
+2020-07-26 20:46:34,824 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:46:34,825 [main] INFO core.MyLogger - Test ID:test2
+2020-07-26 20:46:34,826 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 2
+2020-07-26 20:46:34,826 [main] INFO core.MyLogger - Test Suite:null
+2020-07-26 20:46:35,475 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:46:35,476 [main] INFO core.MyLogger - Test ID:test2
+2020-07-26 20:46:35,477 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 2
+2020-07-26 20:46:35,478 [main] INFO core.MyLogger - Test Suite:null
+2020-07-26 20:46:35,715 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:46:35,716 [main] INFO core.MyLogger - Test ID:test3
+2020-07-26 20:46:35,717 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 3
+2020-07-26 20:46:35,747 [main] INFO core.MyLogger - Test Suite:null
+2020-07-26 20:46:35,936 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:46:35,937 [main] INFO core.MyLogger - Test ID:test3
+2020-07-26 20:46:35,938 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 3
+2020-07-26 20:46:35,939 [main] INFO core.MyLogger - Test Suite:null
+2020-07-26 20:46:36,141 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:46:36,142 [main] INFO core.MyLogger - Test ID:test3
+2020-07-26 20:46:36,142 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 3
+2020-07-26 20:46:36,143 [main] INFO core.MyLogger - Test Suite:null
+2020-07-26 20:46:36,143 [main] INFO core.MyLogger - Tapping on Speed Menu button
+2020-07-26 20:46:38,460 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-26 20:46:39,713 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:46:39,714 [main] INFO core.MyLogger - Test ID:test4
+2020-07-26 20:46:39,715 [main] INFO core.MyLogger - Test Name:3
+2020-07-26 20:46:39,715 [main] INFO core.MyLogger - Test Suite:Funcationality
+2020-07-26 20:46:39,717 [main] INFO core.MyLogger - Tapping on Speed Menu button
+2020-07-26 20:46:41,317 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-26 20:47:26,082 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:47:26,083 [main] INFO core.MyLogger - Test ID:test4
+2020-07-26 20:47:26,084 [main] INFO core.MyLogger - Test Name:3
+2020-07-26 20:47:26,085 [main] INFO core.MyLogger - Test Suite:Funcationality
+2020-07-26 20:47:26,086 [main] INFO core.MyLogger - Tapping on Speed Menu button
+2020-07-26 20:47:38,835 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-26 20:48:09,407 [main] INFO core.MyLogger - Test Failed
+2020-07-26 20:48:09,408 [main] INFO core.MyLogger - Test ID:test4
+2020-07-26 20:48:09,409 [main] INFO core.MyLogger - Test Name:3
+2020-07-26 20:48:09,410 [main] INFO core.MyLogger - Test Suite:Funcationality
+2020-07-26 21:23:02,101 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 21:23:20,309 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 21:23:20,660 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 21:24:58,883 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 21:24:59,254 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 21:24:59,759 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 21:25:28,941 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 21:25:29,308 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 21:25:40,815 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 21:27:58,203 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 21:27:58,562 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 21:27:59,002 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 21:30:32,185 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 21:30:32,593 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 21:30:33,085 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 21:30:42,871 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-26 21:30:57,637 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-26 21:30:57,992 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-26 21:30:58,473 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-26 21:31:07,983 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 01:21:27,318 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 01:21:27,788 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 01:21:31,182 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 01:21:55,036 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 01:22:54,887 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 01:22:55,235 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 01:22:55,676 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 01:23:05,625 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 01:26:06,843 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 01:26:07,194 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 01:26:07,658 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 01:26:21,523 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:26:21,525 [main] INFO core.MyLogger - Test ID:test1
+2020-07-27 01:26:21,525 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements
+2020-07-27 01:26:21,526 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 01:26:21,665 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:26:21,665 [main] INFO core.MyLogger - Test ID:test1
+2020-07-27 01:26:21,666 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements
+2020-07-27 01:26:21,666 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 01:26:21,831 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:26:21,831 [main] INFO core.MyLogger - Test ID:test1
+2020-07-27 01:26:21,832 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements
+2020-07-27 01:26:21,832 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 01:26:21,946 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:26:21,950 [main] INFO core.MyLogger - Test ID:test2
+2020-07-27 01:26:21,951 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 2
+2020-07-27 01:26:21,952 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 01:26:22,119 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:26:22,119 [main] INFO core.MyLogger - Test ID:test2
+2020-07-27 01:26:22,120 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 2
+2020-07-27 01:26:22,121 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 01:26:22,241 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:26:22,241 [main] INFO core.MyLogger - Test ID:test2
+2020-07-27 01:26:22,242 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 2
+2020-07-27 01:26:22,242 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 01:26:22,352 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:26:22,352 [main] INFO core.MyLogger - Test ID:test3
+2020-07-27 01:26:22,353 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 3
+2020-07-27 01:26:22,353 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 01:26:22,465 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:26:22,466 [main] INFO core.MyLogger - Test ID:test3
+2020-07-27 01:26:22,467 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 3
+2020-07-27 01:26:22,467 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 01:26:22,558 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:26:22,558 [main] INFO core.MyLogger - Test ID:test3
+2020-07-27 01:26:22,559 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 3
+2020-07-27 01:26:22,559 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 01:26:22,560 [main] INFO core.MyLogger - Tapping on Speed Menu button
+2020-07-27 01:26:25,811 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-27 01:26:26,989 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:26:26,989 [main] INFO core.MyLogger - Test ID:test4
+2020-07-27 01:26:26,990 [main] INFO core.MyLogger - Test Name:3
+2020-07-27 01:26:26,991 [main] INFO core.MyLogger - Test Suite:Funcationality
+2020-07-27 01:26:26,992 [main] INFO core.MyLogger - Tapping on Speed Menu button
+2020-07-27 01:26:30,444 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-27 01:27:05,384 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:27:05,384 [main] INFO core.MyLogger - Test ID:test4
+2020-07-27 01:27:05,384 [main] INFO core.MyLogger - Test Name:3
+2020-07-27 01:27:05,385 [main] INFO core.MyLogger - Test Suite:Funcationality
+2020-07-27 01:27:05,385 [main] INFO core.MyLogger - Tapping on Speed Menu button
+2020-07-27 01:27:09,696 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-27 01:27:40,366 [main] INFO core.MyLogger - Test Failed
+2020-07-27 01:27:40,368 [main] INFO core.MyLogger - Test ID:test4
+2020-07-27 01:27:40,368 [main] INFO core.MyLogger - Test Name:3
+2020-07-27 01:27:40,369 [main] INFO core.MyLogger - Test Suite:Funcationality
+2020-07-27 01:27:40,371 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 01:52:43,736 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 01:52:44,145 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 01:52:44,734 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 11:54:23,158 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 12:30:30,797 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 12:30:32,090 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 12:31:25,380 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 12:31:57,208 [main] INFO core.MyLogger - Tapping on Speed Menu button
+2020-07-27 12:32:04,903 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-27 12:32:06,516 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 13:21:33,555 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 13:21:33,701 [main] INFO core.MyLogger - Android driver not initialized. Nothing to kill
+2020-07-27 13:22:31,297 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 13:22:31,655 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 13:22:35,758 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 13:22:37,257 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 13:22:37,651 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 13:22:38,306 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 13:22:52,003 [main] INFO core.MyLogger - Android driver not initialized. Nothing to kill
+2020-07-27 13:22:54,551 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 13:24:07,647 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 13:24:07,992 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 13:24:08,486 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 13:24:11,841 [main] INFO core.MyLogger - Android driver not initialized. Nothing to kill
+2020-07-27 13:24:29,245 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 13:24:29,603 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 13:24:30,038 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 13:24:39,676 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 13:25:51,097 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 13:25:51,437 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 13:25:51,879 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 13:26:06,820 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 13:29:07,303 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 13:29:07,658 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 13:29:08,119 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 13:29:22,563 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 15:15:18,609 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:15:18,994 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:15:19,412 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:15:30,817 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 15:16:58,199 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:16:58,524 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:16:58,959 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:17:08,652 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 15:18:30,043 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:18:30,388 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:18:33,747 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:18:42,830 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 15:19:13,311 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:19:13,651 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:19:17,079 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:19:26,174 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 15:25:50,597 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:25:51,052 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:25:54,359 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:30:30,025 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:32:01,241 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:32:14,110 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:32:14,435 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:32:17,731 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:38:48,902 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:38:49,257 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:38:52,467 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:38:52,469 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:38:52,560 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:40:47,404 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:40:47,729 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:40:50,937 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:40:50,941 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:40:51,033 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:43:52,615 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:43:52,992 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:43:56,192 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:43:56,194 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:43:56,287 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:44:32,226 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:44:32,745 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:44:36,157 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:44:36,159 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:44:36,271 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:45:55,949 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:45:56,294 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:45:59,488 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:45:59,492 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:45:59,583 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:48:37,500 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:48:37,865 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:48:41,068 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:48:41,073 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:48:41,165 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:48:41,170 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 15:49:37,201 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:49:37,531 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:49:40,749 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:49:40,752 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:49:40,844 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:49:40,849 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 15:50:23,209 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:50:23,579 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:50:26,763 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:50:26,768 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:50:26,860 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:50:26,870 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 15:53:08,505 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:53:08,850 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:53:12,062 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:53:12,065 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:53:12,156 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:53:12,161 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 15:54:06,527 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:54:06,537 [main] DEBUG core.MyLogger - Formatting ADB Command:adb devices
+2020-07-27 15:54:06,542 [main] DEBUG core.MyLogger - Formatted ADB Command:E:\sdk-tools-windows/platform-tools/adb devices
+2020-07-27 15:54:06,662 [main] DEBUG core.MyLogger - Output of ADB Command:List of devices attached
+a9330314	device
+
+
+2020-07-27 15:54:06,662 [main] DEBUG core.MyLogger - Formatting ADB Command:adb -s a9330314 shell pm list packages
+2020-07-27 15:54:06,662 [main] DEBUG core.MyLogger - Formatted ADB Command:E:\sdk-tools-windows/platform-tools/adb -s a9330314 shell pm list packages
+2020-07-27 15:54:06,862 [main] DEBUG core.MyLogger - Output of ADB Command:package:uk.co.ramjam.infinity
+package:com.bigflix.Movies
+package:com.oneplus.calculator
+package:net.oneplus.weather
+package:com.bajajautoltd.genuineparts
+package:com.skype.raider
+package:com.jio.jioplay.tv
+package:com.android.cts.priv.ctsshim
+package:com.qualcomm.qti.qms.service.telemetry
+package:com.google.android.youtube
+package:com.android.internal.display.cutout.emulation.corner
+package:com.google.android.ext.services
+package:com.ideacellular.digitalvideo
+package:com.android.internal.display.cutout.emulation.double
+package:com.android.providers.telephony
+package:naukriApp.appModules.login
+package:io.appium.settings
+package:com.truecaller
+package:com.google.android.googlequicksearchbox
+package:com.programiz.learnpython
+package:com.android.providers.calendar
+package:in.redbus.android
+package:com.oneplus.card
+package:com.oneplus.note
+package:com.oneplus.skin
+package:com.android.providers.media
+package:jp.susatthi.ManifestViewer
+package:com.nextbillion.groww
+package:com.google.android.onetimeinitializer
+package:com.google.android.ext.shared
+package:com.jrinnovation.proguitartuner
+package:com.holycowstudio.mystery.island.design.match.decoration.lost.adventure
+package:com.android.wallpapercropper
+package:com.oneplus.account
+package:com.quicinc.cne.CNEService
+package:com.oneplus.soundrecorder
+package:com.sololearn
+package:com.miniclip.eightballpool
+package:android.autoinstalls.config.oneplus.oneplus6t
+package:com.android.protips
+package:free.programming.programming
+package:com.njlabs.showjava
+package:cn.oneplus.photos
+package:com.example.wifirftest
+package:com.oneplus.wallpaper
+package:com.android.documentsui
+package:com.adnac.Hrfast
+package:com.quora.android
+package:com.android.externalstorage
+package:com.android.htmlviewer
+package:com.whatsapp
+package:net.oneplus.wallpaperresources
+package:com.qualcomm.qti.uceShimService
+package:com.android.companiondevicemanager
+package:com.android.mms.service
+package:com.qualcomm.qti.qms.service.connectionsecurity
+package:com.android.providers.downloads
+package:com.freelancer.android.messenger
+package:com.bitmango.go.blockhexapuzzle
+package:com.funnypuri.client
+package:com.oneplus.screenshot
+package:com.microsoft.hockeyapp.testerapp
+package:com.oneplus.deskclock
+package:com.audible.universal
+package:com.google.android.apps.secrets
+package:com.oneplus.setupwizard
+package:com.qualcomm.qti.telephonyservice
+package:com.oneplus.sdcardservice
+package:com.oneplus.security
+package:com.google.android.configupdater
+package:com.microsoft.office.excel
+package:in.amazon.mShop.android.shopping
+package:com.qualcomm.qti.optinoverlay
+package:com.ubisoft.dragonfire
+package:com.wastickerapps.stickerstore
+package:io.appium.uiautomator2.server
+package:cn.oneplus.nvbackup
+package:com.msedcl.app
+package:com.oneplus.factorymode.specialtest
+package:com.android.defcontainer
+package:com.qti.confuridialer
+package:com.Splitwise.SplitwiseMobile
+package:com.nike.plusgps
+package:com.google.ar.core
+package:com.google.ar.lens
+package:org.zwanoo.android.speedtest
+package:uk.co.aifactory.chessfree
+package:com.android.providers.downloads.ui
+package:com.oneplus.wifiapsettings
+package:com.android.vending
+package:com.android.pacprocessor
+package:com.android.simappdialog
+package:com.oneplus.iconpack.circle
+package:com.artech.android.device.system.info
+package:net.oneplus.odm
+package:com.android.internal.display.cutout.emulation.tall
+package:com.android.certinstaller
+package:com.android.carrierconfig
+package:com.google.android.marvin.talkback
+package:com.monsterindia.seeker.views
+package:org.codeaurora.bluetooth
+package:com.wapi.wapicertmanage
+package:us.zoom.videomeetings
+package:com.experitest.uiautomator.test
+package:com.qti.qualcomm.datastatusnotification
+package:com.oneplus.applocker
+package:android
+package:com.hecorat.screenrecorder.free
+package:jp.co.cyberagent.stf.rotationwatcher
+package:com.android.contacts
+package:com.qualcomm.qti.callfeaturessetting
+package:com.qualcomm.wfd.service
+package:com.oneplus.gallery
+package:com.oneplus.sms.smscplugger
+package:com.olx.southasia
+package:com.qti.qualcomm.deviceinfo
+package:com.sonyliv
+package:com.mobstac.thehindu
+package:com.example.uniquecalculator
+package:com.snapwork.hdfc
+package:com.htsu.hsbcpersonalbanking
+package:com.oneplus.factorymode
+package:com.android.egg
+package:com.android.mms
+package:com.android.mtp
+package:com.android.nfc
+package:com.android.stk
+package:com.android.backupconfirm
+package:se.dirac.acs
+package:com.instagram.android
+package:com.supercell.clashroyale
+package:com.actionlauncher.playstore
+package:com.oneplus.iconpack.square
+package:org.codeaurora.ims
+package:com.oneplus.camera.service
+package:com.android.statementservice
+package:in.startv.hotstar
+package:com.google.android.gm
+package:com.google.android.apps.tachyon
+package:com.microsoft.emmx
+package:cn.oneplus.opmms
+package:com.android.settings.intelligence
+package:net.oneplus.odm.provider
+package:com.oneplus.simcontacts
+package:com.koushikdutta.vysor
+package:com.android.systemui.theme.dark
+package:com.fitnesskeeper.runkeeper.pro
+package:com.olacabs.customer
+package:com.microsoft.office.outlook
+package:com.bigbasket.mobileapp
+package:com.qualcomm.qti.dynamicddsservice
+package:net.oneplus.push
+package:com.mediquick.mediquickapp
+package:com.google.android.setupwizard
+package:com.qualcomm.qcrilmsgtunnel
+package:com.android.providers.settings
+package:com.android.sharedstoragebackup
+package:com.oem.nfc
+package:com.google.android.music
+package:net.oneplus.forums
+package:com.android.printspooler
+package:com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish
+package:com.android.dreams.basic
+package:com.indianexpress.android
+package:com.uniken.r2fa4a.bom
+package:in.workindia.nileshdungarwal.workindiaandroid
+package:com.android.se
+package:com.android.inputdevices
+package:com.ideacellular.myidea
+package:com.android.bips
+package:com.qti.dpmserviceapp
+package:com.oneplus
+package:com.dropbox.android
+package:com.ea.game.nfs14_row
+package:com.csam.icici.bank.imobile
+package:com.google.android.apps.docs
+package:com.google.android.apps.maps
+package:com.wt.apkinfo
+package:com.ubercab.eats
+package:com.microsoft.office.word
+package:net.one97.paytm
+package:com.makemytrip
+package:com.android.cellbroadcastreceiver
+package:com.google.android.webview
+package:android.telephony.overlay.cmcc
+package:com.oneplus.iconpack.oneplus
+package:com.oem.logkitsdservice
+package:com.nic.sciapp
+package:com.qualcomm.qti.simsettings
+package:com.android.server.telecom
+package:com.google.android.syncadapters.contacts
+package:net.oneplus.widget
+package:com.android.keychain
+package:com.android.chrome
+package:com.android.dialer
+package:com.oneplus.filemanager
+package:com.google.android.packageinstaller
+package:com.hureka.palatable
+package:toolsinc.bank.pfbalancecheck.epfbalancecheck
+package:com.google.android.gms
+package:com.google.android.gsf
+package:com.google.android.tts
+package:com.zapak.littlesinghamtap
+package:com.qualcomm.qti.qtisystemservice
+package:com.android.calllogbackup
+package:com.google.android.partnersetup
+package:com.superbinogo.jungleboyadventure
+package:com.fingerprints.serviceext
+package:com.akingi.torrent
+package:com.google.android.videos
+package:com.glassdoor.app
+package:com.android.carrierdefaultapp
+package:com.qualcomm.qti.remoteSimlockAuth
+package:com.graymatrix.did
+package:com.android.proxyhandler
+package:com.Dominos
+package:com.netflix.mediaclient
+package:com.cnergee.myapp.dna.broadband
+package:com.oneplus.faceunlock
+package:com.oem.oemlogkit
+package:com.jio.myjio
+package:com.google.android.feedback
+package:com.google.android.printservice.recommendation
+package:com.google.android.apps.photos
+package:com.google.android.calendar
+package:com.android.managedprovisioning
+package:com.oneplus.opbugreportlite
+package:com.ubercab
+package:com.tencent.soter.soterserver
+package:com.application.zomato
+package:com.udemy.android
+package:com.facebook.katana
+package:io.appium.uiautomator2.server.test
+package:com.bt.bms
+package:nic.goi.aarogyasetu
+package:com.comuto
+package:com.android.providers.partnerbookmarks
+package:com.android.smspush
+package:com.android.networksettings.overlay.ct
+package:com.ext.ui
+package:com.andymstone.metronome
+package:com.android.wallpaper.livepicker
+package:com.oneplus.bttestmode
+package:com.oneplus.backuprestore.remoteservice
+package:com.netease.open.pocoservice
+package:com.tvf.tvfplay
+package:com.android.apps.tag
+package:com.facebook.orca
+package:com.oneplus.aod
+package:com.GiTeam.PuzzleSchoolGame
+package:com.oneplus.ifaaservice
+package:com.Slack
+package:com.google.android.gms.policy_sidecar_aps
+package:com.gaana
+package:org.mozilla.firefox
+package:com.zapak.cartoonnetwork.rollno21fruitslash
+package:com.mobike.mobikeapp
+package:com.google.android.backuptransport
+package:com.android.storagemanager
+package:com.calm.android
+package:com.android.bookmarkprovider
+package:com.linkedin.android
+package:com.android.settings
+package:com.qualcomm.qti.ims
+package:com.qualcomm.qti.lpa
+package:com.google.android.apps.nbu.paisa.user
+package:com.grofers.customerapp
+package:com.myntra.android
+package:com.trello
+package:com.tumblr
+package:com.qualcomm.location
+package:com.google.android.apps.turbo
+package:com.paysquare.mypayroll
+package:com.lic.liccustomer
+package:com.android.cts.ctsshim
+package:in.hsbc.hsbcindia
+package:com.netease.open.pocoservice.test
+package:com.digilocker.android
+package:sk.styk.martin.apkanalyzer
+package:com.tiago.tspeak
+package:com.oneplus.dirac.simplemanager
+package:com.android.vpndialogs
+package:com.theronrogers.vaultyfree
+package:com.mpndbash.poptv
+package:com.hutchgames.formularacing
+package:com.google.android.keep
+package:com.oneplus.opbackup
+package:com.okcupid.okcupid
+package:com.git.carromking
+package:com.piriform.ccleaner
+package:com.android.phone
+package:com.android.shell
+package:com.tv.v18.viola
+package:com.android.wallpaperbackup
+package:com.android.providers.blockednumber
+package:net.oneplus.provider.appcategoryprovider
+package:com.android.providers.userdictionary
+package:com.android.emergency
+package:com.antivirus
+package:com.infrasofttech.MahaBank
+package:in.swiggy.android
+package:media.music.musicplayer
+package:com.android.location.fused
+package:com.android.systemui
+package:com.electricsheep.asi
+package:com.android.bluetoothmidiservice
+package:com.qualcomm.qti.poweroffalarm
+package:com.healthifyme.basic
+package:com.qualcomm.qti.networksetting
+package:com.acadia.falcon
+package:oneplus.consumer.android
+package:com.android.traceur
+package:com.sololearn.python
+package:com.qualcomm.qti.qms.service.trustzoneaccess
+package:com.google.android.play.games
+package:com.atlassian.android.jira.core
+package:com.little.nvy
+package:com.fbvideos.fbdownloader.freeapp
+package:com.oneplus.camera
+package:com.android.bluetooth
+package:com.oneplus.config
+package:com.qualcomm.timeservice
+package:com.rollic.goknots3d
+package:com.android.wallpaperpicker
+package:com.qualcomm.embms
+package:net.oneplus.launcher
+package:com.android.providers.contacts
+package:com.android.captiveportallogin
+package:com.nobroker.app
+package:com.fingerprints.fingerprintsensortest
+package:com.acadia.pmicot
+package:com.google.android.inputmethod.latin
+package:com.google.android.apps.restore
+
+2020-07-27 15:54:06,892 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:54:10,139 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:54:10,140 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:54:10,277 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:54:10,282 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 15:57:22,813 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:57:23,218 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:57:26,497 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:57:26,501 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:57:26,593 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:57:26,603 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 15:57:35,818 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 15:57:35,822 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 15:59:15,972 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 15:59:16,322 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 15:59:19,558 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 15:59:19,560 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 15:59:19,656 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 15:59:19,661 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 15:59:28,950 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 15:59:28,952 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 16:02:00,435 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 16:02:00,790 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 16:02:04,049 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 16:02:04,051 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 16:02:04,148 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 16:02:04,158 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 16:03:18,611 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 16:03:18,955 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 16:03:22,173 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 16:03:22,176 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 16:03:22,269 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 16:03:22,274 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 16:16:15,566 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 16:16:15,941 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 16:16:20,071 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 16:16:20,075 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 16:16:20,166 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 16:16:20,171 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 16:16:29,078 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 16:16:29,082 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 16:22:53,072 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 16:22:53,413 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 16:22:56,615 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 16:22:56,615 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 16:22:56,695 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 16:22:56,700 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 16:23:06,236 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 16:23:06,236 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 16:23:37,939 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 16:23:38,283 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 16:23:41,472 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 16:23:41,472 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 16:23:41,571 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 16:23:41,577 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 16:23:50,515 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 16:23:50,714 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 16:24:23,431 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 16:24:23,789 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 16:24:27,149 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 16:24:27,150 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 16:24:27,247 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 16:24:27,254 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 16:24:36,393 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 16:24:36,594 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 16:25:11,952 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 16:25:12,300 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 16:25:16,316 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 16:25:16,317 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 16:25:16,427 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 16:25:16,433 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 16:26:28,828 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 16:26:29,187 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 16:26:32,404 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 16:26:32,405 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 16:26:32,508 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 16:26:32,514 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 16:27:13,871 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 16:27:14,238 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 16:27:18,263 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 16:27:18,263 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 16:27:18,353 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 16:27:18,359 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 16:27:28,332 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 16:27:28,536 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 16:28:03,264 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 16:28:03,571 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 16:28:06,757 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 16:28:06,758 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 16:28:06,855 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 16:28:06,863 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 16:28:16,009 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 16:28:16,247 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 17:30:09,803 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 17:30:10,233 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 17:30:14,281 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 17:30:14,285 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 17:30:14,382 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 17:30:14,387 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 17:30:24,587 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 17:30:24,769 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 17:47:59,812 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 17:48:00,182 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 17:48:03,400 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 17:48:03,404 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 17:48:03,496 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 17:48:03,506 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 17:48:12,456 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 17:48:12,645 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 17:52:49,092 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 17:52:49,524 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 17:52:53,546 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 17:52:53,547 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 17:52:53,648 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 17:52:53,654 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 17:53:02,858 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 17:53:03,066 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 17:56:08,472 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 17:56:08,817 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 17:56:12,844 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 17:56:12,844 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 17:56:12,953 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 17:56:12,958 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 17:56:22,167 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 17:56:27,430 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 18:11:38,386 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 18:11:38,816 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 18:11:42,123 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 18:11:42,125 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 18:11:42,222 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 18:11:42,227 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 18:11:51,117 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 18:11:57,943 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 18:12:41,434 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 18:12:41,784 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 18:12:45,014 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 18:12:45,015 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 18:12:45,158 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 18:12:45,163 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 18:41:22,218 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 18:41:22,648 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 18:41:25,834 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 18:41:25,838 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 18:41:25,930 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 18:41:25,935 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 18:41:35,062 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 18:41:40,546 [main] INFO core.MyLogger - Test Failed
+2020-07-27 18:41:40,548 [main] INFO core.MyLogger - Test ID:test1
+2020-07-27 18:41:40,548 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements
+2020-07-27 18:41:40,549 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 18:41:41,221 [main] INFO core.MyLogger - Test Failed
+2020-07-27 18:41:41,221 [main] INFO core.MyLogger - Test ID:test1
+2020-07-27 18:41:41,221 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements
+2020-07-27 18:41:41,226 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 18:41:41,376 [main] INFO core.MyLogger - Test Failed
+2020-07-27 18:41:41,381 [main] INFO core.MyLogger - Test ID:test1
+2020-07-27 18:41:41,381 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements
+2020-07-27 18:41:41,386 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 18:41:41,551 [main] INFO core.MyLogger - Test Failed
+2020-07-27 18:41:41,551 [main] INFO core.MyLogger - Test ID:test2
+2020-07-27 18:41:41,555 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 2
+2020-07-27 18:41:41,555 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 18:41:41,696 [main] INFO core.MyLogger - Test Failed
+2020-07-27 18:41:41,696 [main] INFO core.MyLogger - Test ID:test2
+2020-07-27 18:41:41,696 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 2
+2020-07-27 18:41:41,696 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 18:41:41,950 [main] INFO core.MyLogger - Test Failed
+2020-07-27 18:41:41,951 [main] INFO core.MyLogger - Test ID:test2
+2020-07-27 18:41:41,952 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 2
+2020-07-27 18:41:41,952 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 18:41:42,110 [main] INFO core.MyLogger - Test Failed
+2020-07-27 18:41:42,112 [main] INFO core.MyLogger - Test ID:test3
+2020-07-27 18:41:42,113 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 3
+2020-07-27 18:41:42,114 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 18:41:42,293 [main] INFO core.MyLogger - Test Failed
+2020-07-27 18:41:42,294 [main] INFO core.MyLogger - Test ID:test3
+2020-07-27 18:41:42,295 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 3
+2020-07-27 18:41:42,296 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 18:41:42,423 [main] INFO core.MyLogger - Test Failed
+2020-07-27 18:41:42,424 [main] INFO core.MyLogger - Test ID:test3
+2020-07-27 18:41:42,425 [main] INFO core.MyLogger - Test Name:Verify that Home Activity has all Elements 3
+2020-07-27 18:41:42,426 [main] INFO core.MyLogger - Test Suite:null
+2020-07-27 18:41:42,427 [main] INFO core.MyLogger - Tapping on Speed Menu button
+2020-07-27 18:41:45,711 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-27 18:41:47,796 [main] INFO core.MyLogger - Test Failed
+2020-07-27 18:41:47,802 [main] INFO core.MyLogger - Test ID:test4
+2020-07-27 18:41:47,802 [main] INFO core.MyLogger - Test Name:3
+2020-07-27 18:41:47,802 [main] INFO core.MyLogger - Test Suite:Funcationality
+2020-07-27 18:41:47,803 [main] INFO core.MyLogger - Tapping on Speed Menu button
+2020-07-27 18:41:50,602 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-27 18:41:59,837 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 18:42:00,192 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 18:42:03,366 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 18:42:03,370 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 18:42:03,446 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 18:42:03,456 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 18:42:13,594 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 18:42:14,208 [main] INFO core.MyLogger - Tapping on Speed Menu button
+2020-07-27 18:42:21,549 [main] INFO core.MyLogger - Tapping Go Button on HomeScreen
+2020-07-27 18:42:23,169 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 21:00:59,173 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 21:00:59,678 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 21:01:12,795 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 21:01:12,796 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 21:01:12,896 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 21:01:12,901 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 21:01:25,560 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 21:01:25,561 [main] INFO core.MyLogger - Android driver not initialized. Nothing to kill
+2020-07-27 21:13:18,784 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 21:13:19,108 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 21:13:22,234 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 21:13:22,234 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 21:13:22,287 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 21:13:22,292 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 21:13:32,637 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 21:13:32,638 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 22:01:52,381 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:01:52,758 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:01:57,305 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:01:57,305 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:01:57,378 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:01:57,382 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:02:06,901 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:02:06,902 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 22:04:14,277 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:04:14,600 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:04:17,740 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:04:17,741 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:04:17,804 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:04:17,807 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:04:26,860 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:04:26,863 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 22:06:13,804 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:06:14,143 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:06:17,273 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:06:17,274 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:06:17,326 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:06:17,331 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:06:26,288 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:06:26,480 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 22:10:05,738 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:10:06,096 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:10:09,247 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:10:09,248 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:10:09,340 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:10:09,347 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:11:11,208 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:11:11,527 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:11:14,677 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:11:14,677 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:11:14,740 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:11:14,745 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:11:23,863 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:11:24,061 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 22:13:11,342 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:13:11,679 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:13:14,656 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:13:14,656 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:13:14,706 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:13:14,709 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:14:22,931 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:14:23,294 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:14:26,532 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:14:26,532 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:14:26,591 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:14:26,595 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:14:38,339 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:14:38,490 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 22:17:19,790 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:17:20,116 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:17:23,281 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:17:23,281 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:17:23,383 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:17:23,388 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:23:51,427 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:23:51,787 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:23:54,975 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:23:54,975 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:23:55,047 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:23:55,051 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:31:09,195 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:31:09,575 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:31:13,634 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:31:13,636 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:31:13,747 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:31:13,747 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:31:22,755 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:31:23,041 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:31:25,953 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:31:25,953 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:31:25,953 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:31:25,953 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:31:37,577 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:37:11,065 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:37:11,411 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:37:15,432 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:37:15,434 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:37:15,575 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:37:15,580 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:37:24,671 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:37:24,963 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:37:27,865 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:37:27,869 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:37:27,869 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:37:27,870 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:37:38,773 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:40:05,078 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:40:05,436 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:40:09,475 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:40:09,480 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:40:09,592 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:40:09,597 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:40:18,877 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:42:35,314 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:42:35,654 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:42:38,863 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:42:38,863 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:42:38,963 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:42:38,967 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:42:48,003 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:45:13,511 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:45:13,845 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:45:17,166 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:45:17,171 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:45:17,258 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:45:17,263 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:45:24,058 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:45:24,414 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:45:27,800 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:45:27,808 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:45:27,935 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:45:27,935 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:45:38,502 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:51:30,681 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:51:31,091 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:51:34,310 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:51:34,315 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:51:34,424 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:51:34,429 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:51:43,441 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:54:01,839 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:54:02,179 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:54:05,395 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:54:05,403 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:54:05,540 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:54:05,545 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:54:14,774 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 22:54:20,104 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 22:55:34,313 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:55:34,654 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:55:37,875 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:55:37,879 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:55:37,973 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:55:37,981 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:56:11,494 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:56:16,299 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:56:22,871 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:56:22,872 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:56:22,993 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:56:23,000 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:56:48,558 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:56:48,903 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:56:52,106 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:56:52,110 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:56:52,237 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:56:52,242 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:57:30,526 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:57:30,891 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:57:34,144 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:57:34,145 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:57:34,291 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:57:34,296 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 22:59:38,500 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 22:59:38,960 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 22:59:42,226 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 22:59:42,229 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 22:59:42,341 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 22:59:42,351 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 23:01:42,806 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 23:01:43,156 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 23:01:47,190 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 23:01:47,190 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 23:01:47,285 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 23:01:47,285 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 23:01:56,728 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 23:02:02,051 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 23:02:59,259 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 23:02:59,682 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 23:03:02,855 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 23:03:02,863 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 23:03:02,964 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 23:03:02,969 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 23:03:12,128 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 23:03:17,507 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 23:06:26,217 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 23:06:26,557 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 23:06:29,732 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 23:06:29,737 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 23:06:29,830 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 23:06:29,830 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 23:06:38,806 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 23:06:44,159 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 23:26:15,207 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 23:26:15,547 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 23:26:18,796 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 23:26:18,801 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 23:26:18,908 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 23:26:18,913 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 23:26:27,772 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 23:26:28,014 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 23:27:46,706 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 23:27:47,061 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 23:27:50,450 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 23:27:50,459 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 23:27:50,579 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 23:27:50,584 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 23:27:59,916 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 23:28:53,368 [main] INFO core.MyLogger - Killing Android Driver
+2020-07-27 23:42:12,155 [main] INFO core.MyLogger - Checking for Available Devices
+2020-07-27 23:42:12,577 [main] INFO core.MyLogger - Starting Appium Service: 
+2020-07-27 23:42:16,603 [main] INFO core.MyLogger - Started Appium Service with Device: a9330314
+2020-07-27 23:42:16,606 [main] INFO core.MyLogger - Trying to create new Driver for device: a9330314
+2020-07-27 23:42:16,707 [main] INFO core.MyLogger - Creating driver caps for device:a9330314
+2020-07-27 23:42:16,711 [main] INFO core.MyLogger - Returning the Capabilites for:a9330314
+2020-07-27 23:42:25,889 [main] INFO core.MyLogger - Created new Driver for device: a9330314
+2020-07-27 23:42:32,917 [main] INFO core.MyLogger - Killing Android Driver
